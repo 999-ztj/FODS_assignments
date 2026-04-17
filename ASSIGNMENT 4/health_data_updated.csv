@@ -1,0 +1,21 @@
+name,age,gender,height,weight,BMI,Health_Status
+Alice,25,Female,1.65,55,33.33,High risk of diabetes/heart disease
+Jenith,30,Male,1.78,80,44.94,Critical health condition
+Carol,22,Female,1.6,48,30.0,High risk of diabetes/heart disease
+David,35,Male,1.82,95,52.2,Critical health condition
+Emma,28,Female,1.7,70,41.18,Critical health condition
+Frank,40,Male,1.75,100,57.14,Critical health condition
+Grace,31,Female,1.63,58,35.58,Critical health condition
+Henry,26,Male,1.8,75,41.67,Critical health condition
+Isla,24,Female,1.68,52,30.95,High risk of diabetes/heart disease
+Jack,45,Male,1.76,90,51.14,Critical health condition
+Karen,33,Female,1.55,65,41.94,Critical health condition
+Leo,29,Male,1.85,85,45.95,Critical health condition
+sara,27,Female,1.72,60,34.88,High risk of diabetes/heart disease
+Noah,38,Male,1.79,110,61.45,Critical health condition
+Olivia,23,Female,1.61,45,27.95,Overweight risk
+Paul,50,Male,1.74,88,50.57,Critical health condition
+Quinn,36,Female,1.67,73,43.71,Critical health condition
+Ryan,32,Male,1.81,78,43.09,Critical health condition
+shika,21,Female,1.58,50,31.65,High risk of diabetes/heart disease
+Tom,44,Male,1.77,92,51.98,Critical health condition

@@ -1,0 +1,5 @@
+book_id,title,author,is_available
+B001,Introduction to Python,John Smith,True
+B002,Data Science Basics,Surav joshi,True
+B003,Machine Learning,Jenith Gurung,True
+B004,Database Systems,Sara kc,True
